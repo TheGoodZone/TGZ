@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="PickleType" max_length="40" name="x_505906_tgz_pickletype" type="collection"/>
+</database>
