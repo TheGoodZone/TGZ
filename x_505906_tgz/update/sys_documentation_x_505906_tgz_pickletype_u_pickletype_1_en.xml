@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_pickletype_1" label="PickleType" language="en" table="x_505906_tgz_pickletype">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_pickletype_1</element>
+            <help/>
+            <hint/>
+            <label>PickleType</label>
+            <language>en</language>
+            <name>x_505906_tgz_pickletype</name>
+            <plural>PickleTypes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-20 20:02:45</sys_created_on>
+            <sys_id>d6acb6f2db0a9010f57c29e1ca961938</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>PickleType</sys_name>
+            <sys_package display_value="TGZ" source="x_505906_tgz">a0e932bedbc69010f57c29e1ca961932</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TGZ">a0e932bedbc69010f57c29e1ca961932</sys_scope>
+            <sys_update_name>sys_documentation_x_505906_tgz_pickletype_u_pickletype_1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-20 20:02:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

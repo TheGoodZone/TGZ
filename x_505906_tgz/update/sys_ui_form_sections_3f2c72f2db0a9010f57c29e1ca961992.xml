@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="3f2c72f2db0a9010f57c29e1ca961992" sys_domain="global" table="x_505906_tgz_pickletype" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-20 20:00:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fb2c72f2db0a9010f57c29e1ca961995</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_505906_tgz_pickletype" name="x_505906_tgz_pickletype" sys_domain="global" view="Default view">3f2c72f2db0a9010f57c29e1ca961992</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_505906_tgz_pickletype" sys_domain="global" view="Default view">d10cb672db0a9010f57c29e1ca9619cb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-20 20:00:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-20 20:00:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f72c72f2db0a9010f57c29e1ca961996</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_505906_tgz_pickletype" name="x_505906_tgz_pickletype" sys_domain="global" view="Default view">3f2c72f2db0a9010f57c29e1ca961992</sys_ui_form>
+            <sys_ui_section caption="Diagnostic Information" display_value="Diagnostic Information" name="x_505906_tgz_pickletype" sys_domain="global" view="Default view">bb2c72f2db0a9010f57c29e1ca961991</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-20 20:00:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_505906_tgz_pickletype</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-20 20:00:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3f2c72f2db0a9010f57c29e1ca961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_505906_tgz_pickletype</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="TGZ" source="x_505906_tgz">a0e932bedbc69010f57c29e1ca961932</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TGZ">a0e932bedbc69010f57c29e1ca961932</sys_scope>
+            <sys_update_name>sys_ui_form_sections_3f2c72f2db0a9010f57c29e1ca961992</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-20 20:00:40</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
